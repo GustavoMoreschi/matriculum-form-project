@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    /* FONTE DE TEXTO*/
+    --font-family: "Poppins", sans-serif;
+
+    --text: 400 1rem/150% var(--font-family);
+    --text-sm: 400 0.875rem/140% var(--font-family)
+
+    --heading1: 700 2rem/120% var(--font-family);
+    --heading2: 700 1.5rem/120% var(--font-family);
+    --heading3: 700 1.25rem/120% var(--font-family);
+    --heading4: 700 1rem/120% var(--font-family);
+
+    /* TEXT COLORS */
+    --text-primary: #292524;
+    --text-secondary: #57534e;
+    --text-tertiary: #8F8881;
+    --text-highlight: #E43A12;
+
+    /* SURFACE COLORS */
+    --surface-primary: #FFFFFF;
+    --surface-secondary: #FEE7D6;
+
+    /* STROKE COLORS */
+    --stroke-default: #D6D3D1;
+    --stroke-highlight: #F3541C;
+
+    /* SEMANTICS COLORS */
+    --semantic-error: #DC2626;
+}
+
