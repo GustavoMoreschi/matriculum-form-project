@@ -16,6 +16,10 @@
     --heading3: 700 1.25rem/120% var(--font-family);
     --heading4: 700 1rem/120% var(--font-family);
 
+    /* BRAND COLORS */
+    --brand-dark: #E43A12;
+    --brand-mid: #F3541C;
+
     /* TEXT COLORS */
     --text-primary: #292524;
     --text-secondary: #57534e;
