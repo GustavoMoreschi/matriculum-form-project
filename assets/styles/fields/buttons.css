@@ -27,3 +27,13 @@ button{
         }
     }
 }
+
+@media (width <= 26rem){
+    button{
+        text-align: center;
+
+        &.btn-secondary{
+            width: 85%;
+        }
+    }
+}

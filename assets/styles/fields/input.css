@@ -89,3 +89,9 @@ input{
         display: none;
     }
 }
+
+@media (width <= 26rem){
+    input, select, textarea{
+        border-radius: .5rem;
+    }
+}
